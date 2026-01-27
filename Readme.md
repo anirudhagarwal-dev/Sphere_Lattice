@@ -3,7 +3,7 @@
 **Sphere_Lattice** is an interactive, visually engaging web-based project that explores the mathematics and beauty of **sphere packing**. Designed to run smoothly on **Windows, macOS, and Linux**, it offers an intuitive and responsive experience directly in the browser.
 
 🌐 **Live Demo:**  
-👉 **
+👉 *(https://sphere-lattice.vercel.app)*
 
 ---
 
